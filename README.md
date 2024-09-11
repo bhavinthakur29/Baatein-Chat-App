@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Baatein - Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal chat app project using MERN Stack.
